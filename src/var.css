@@ -1,0 +1,9 @@
+:root {
+    /* Primary Colors */
+    --color-text: #333; /* Dark Gray */
+    --primary-color: #4a90e2; /* Blue */
+    --secondary-color: #50e3c2; /* Teal */
+    --color-dark: #000; /* Black */ 
+    --color-light: #fff; /* White */
+    --color-bg: #f4f4f4; /* Light Gray */
+}
